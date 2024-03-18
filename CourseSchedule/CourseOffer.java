@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package CourseSchedule;
 
 import CourseCatalog.Course;
@@ -10,10 +6,6 @@ import Persona.Faculty.FacultyAssignment;
 import Persona.Faculty.FacultyProfile;
 import java.util.ArrayList;
 
-/**
- *
- * @author kal bugrara
- */
 public class CourseOffer {
 
     Course course;
